@@ -1,7 +1,7 @@
 # Hello world! I'm Ana 👋
 
 <div id="header" align="center">
-  <img src="./avatar-resized.png" width="200"/>
+  <img src="./avatar-sitting.png" width="200"/>
 </div>
 
 <div id="badges" align="center">
