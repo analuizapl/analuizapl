@@ -32,3 +32,7 @@ I majored in Computer Science and I am currently pursuing a postgraduate program
   <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-Automate-Colored.svg" title="AndroidStudio" alt="AndroidStudio" width="40" height="40"/>&nbsp;
   <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" title="AndroidStudio" alt="AndroidStudio" width="40" height="40"/>&nbsp;
 </div>
+
+---
+
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=analuizapl)](https://github.com/anuraghazra/github-readme-stats)
